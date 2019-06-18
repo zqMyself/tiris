@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "905575481964",
+    "firebase_url": "https://trsdk-200c5.firebaseio.com",
+    "project_id": "trsdk-200c5",
+    "storage_bucket": "trsdk-200c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905575481964:android:b57a3a5c8b56aca4",
+        "android_client_info": {
+          "package_name": "com.example.testmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905575481964-ilrencar5mnnq8fub80smt22nh3s4fh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testmodule",
+            "certificate_hash": "975613bb21ef9dae625c6ff0ad25c720df94d5a5"
+          }
+        },
+        {
+          "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDfLByThuzfxjL7nO87yYBGszI1pEJy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905575481964-jo1jca2rmm64vmtsrld1v43b4mp5ipc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wumeng.SDKDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905575481964:android:a6d15fee0c5968fa",
+        "android_client_info": {
+          "package_name": "com.testwumeng.wwww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDfLByThuzfxjL7nO87yYBGszI1pEJy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905575481964-jo1jca2rmm64vmtsrld1v43b4mp5ipc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wumeng.SDKDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905575481964:android:b53b796df53fb47c",
+        "android_client_info": {
+          "package_name": "com.xkc.androidgoogleplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDfLByThuzfxjL7nO87yYBGszI1pEJy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905575481964-jo1jca2rmm64vmtsrld1v43b4mp5ipc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "wumeng.SDKDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
