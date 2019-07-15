@@ -90,6 +90,7 @@ public class PayActivity extends AppCompatActivity implements GoogleBillingUtil.
                 requestPayData.stay_field1      = ""; //保留字段1 可选
                 requestPayData.stay_field2      = ""; //保留字段2 可选
 
+
                 PayUtil.getInstance()
                         .requestPayment(PayActivity.this,requestPayData, new RequestPayCall(){
                     @Override
