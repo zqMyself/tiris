@@ -84,6 +84,9 @@ public class PayActivity extends AppCompatActivity implements GoogleBillingUtil.
                 requestPayData.productAttr      = "测试商品"; //商品介绍
                 requestPayData.productID        = "get_10_coins"; //商品ID
                 requestPayData.productName      = "游戏币"; //商品名称
+                requestPayData.userName         = "游戏币"; //商品名称
+                requestPayData.userName         = "xck玩家1"; //用户角色名
+                requestPayData.userArea         = "1服"; //商品名称
                 requestPayData.stay_field1      = ""; //保留字段1 可选
                 requestPayData.stay_field2      = ""; //保留字段2 可选
 
