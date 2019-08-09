@@ -47,7 +47,8 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.5'
 
 
-    implementation 'com.tiris:tirisfirebasesdk:0.0.2'
+    //https://bintray.com/ 这里搜索 tirisfirebasesdk 查看最新版本号
+    implementation 'com.tiris:tirisfirebasesdk:0.0.5'
 
 }
 apply plugin: 'com.google.gms.google-services'

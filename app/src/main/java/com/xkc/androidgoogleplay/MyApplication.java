@@ -1,7 +1,6 @@
 package com.xkc.androidgoogleplay;
 
 import android.app.Application;
-import com.umeng.analytics.game.UMGameAgent;
 import com.xck.tirisfirebasesdk.module.config.XCKConfigure;
 
 public class MyApplication extends Application {

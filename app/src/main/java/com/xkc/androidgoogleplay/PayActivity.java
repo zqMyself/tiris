@@ -1,11 +1,6 @@
 package com.xkc.androidgoogleplay;
 
-import android.content.ComponentName;
-import android.content.Context;
-import android.content.Intent;
-import android.content.ServiceConnection;
 import android.os.Bundle;
-import android.os.IBinder;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
@@ -15,17 +10,13 @@ import android.view.View;
 import com.android.billingclient.api.BillingClient;
 import com.android.billingclient.api.Purchase;
 import com.android.billingclient.api.SkuDetails;
-import com.android.vending.billing.IInAppBillingService;
 import com.google.gson.Gson;
-import com.umeng.analytics.MobclickAgent;
-import com.xck.tirisfirebasesdk.module.login.utils.logs.GCLogger;
 import com.xck.tirisfirebasesdk.module.net.ToastUtil;
 import com.xck.tirisfirebasesdk.module.net.interfaces.RequestPayCall;
 import com.xck.tirisfirebasesdk.module.pay.bean.RequestPayData;
 import com.xck.tirisfirebasesdk.module.pay.utils.GoogleBillingUtil;
 import com.xck.tirisfirebasesdk.module.pay.utils.PayUtil;
 import com.xck.tirisfirebasesdk.module.ugame.UGameUtil;
-import org.json.JSONObject;
 
 import java.util.List;
 
