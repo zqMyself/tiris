@@ -48,7 +48,8 @@ dependencies {
 
 
     //https://bintray.com/ 这里搜索 tirisfirebasesdk 查看最新版本号
-    implementation 'com.tiris:tirisfirebasesdk:0.0.5'
+    api 'com.tiris:tirisfirebasesdk:0.0.5'
+//    implementation(name:'tirisfirebasesdk-0.0.5',ext:'aar')
 
 }
 apply plugin: 'com.google.gms.google-services'

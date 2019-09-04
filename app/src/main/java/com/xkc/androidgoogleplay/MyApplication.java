@@ -11,6 +11,8 @@ public class MyApplication extends Application {
 
         //初始化xkc SDK
         new XCKConfigure.Builder()
+                //切换线上线下环境 默认是线下环境
+                .isReleaseUrl(false)
                 .setContext(this)
                 .isLog(true)
                 //FireBase id 直接默认这个是google-services.json 文件中自动解析出来的
