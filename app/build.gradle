@@ -47,9 +47,28 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.5'
 
 
+
+//    api (name:'tirisfirebasesdk-release',ext:'aar')
+//    api 'com.google.firebase:firebase-core:16.0.9'
+//    api 'com.google.firebase:firebase-auth:17.0.0'
+//// Google Sign In SDK (only required for Google Sign In)
+//    api 'com.google.android.gms:play-services-auth:16.0.1'
+//// Facebook Android SDK (only required for Facebook Login)
+//// Used in FacebookLoginActivity.
+//    api 'com.facebook.android:facebook-login:4.42.0'
+////google 支付
+//    api 'com.android.billingclient:billing:1.2'
+//    api 'com.google.android.gms:play-services-location:11.8.0'
+////友盟统计
+//    api 'com.umeng.umsdk:game:8.0.0+G' //游戏 SDK 包(包含所有统计 SDK 功能及接口)
+//    api 'com.umeng.umsdk:common:2.0.0' // 基础组件包
+////gson
+//    api "com.google.code.gson:gson:2.8.5"
+
+
     //https://bintray.com/ 这里搜索 tirisfirebasesdk 查看最新版本号
-    api 'com.tiris:tirisfirebasesdk:0.0.5'
-//    implementation(name:'tirisfirebasesdk-0.0.5',ext:'aar')
+    api 'com.tiris:tirisfirebasesdk:0.0.6'
+//  implementation(name:'tirisfirebasesdk-release',ext:'aar')
 
 }
 apply plugin: 'com.google.gms.google-services'
