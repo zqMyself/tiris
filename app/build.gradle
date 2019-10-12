@@ -14,14 +14,34 @@ android {
         versionName "1.0.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+    signingConfigs {
 
-
+        debug {
+            storeFile file('./sdkxck.keystore')
+            storePassword "xck123456"
+            keyAlias "sdkxck"
+            keyPassword "xck123456"
+        }
+        release {
+            storeFile file('./Key.store')
+            storePassword "xck123456"
+            keyAlias "KeyStore"
+            keyPassword "xck123456"
+        }
+    }
     buildTypes {
         release {
             minifyEnabled false
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            signingConfig signingConfigs.debug
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
 
     lintOptions {
         abortOnError false

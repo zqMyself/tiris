@@ -1,49 +1,41 @@
 {
   "project_info": {
-    "project_number": "905575481964",
-    "firebase_url": "https://trsdk-200c5.firebaseio.com",
-    "project_id": "trsdk-200c5",
-    "storage_bucket": "trsdk-200c5.appspot.com"
+    "project_number": "563538421107",
+    "firebase_url": "https://betatest01-5b193.firebaseio.com",
+    "project_id": "betatest01-5b193",
+    "storage_bucket": "betatest01-5b193.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:905575481964:android:b57a3a5c8b56aca4",
+        "mobilesdk_app_id": "1:563538421107:android:155fddecb14c2d0c",
         "android_client_info": {
-          "package_name": "com.example.testmodule"
+          "package_name": "com.pay.pay"
         }
       },
       "oauth_client": [
         {
-          "client_id": "905575481964-ilrencar5mnnq8fub80smt22nh3s4fh8.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.testmodule",
-            "certificate_hash": "975613bb21ef9dae625c6ff0ad25c720df94d5a5"
-          }
-        },
-        {
-          "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+          "client_id": "563538421107-drtu0dm00dieq6e1e38p5iafrh2p36k8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCVDfLByThuzfxjL7nO87yYBGszI1pEJy4"
+          "current_key": "AIzaSyCzbtneH_VCELSZa5frOu4Mre-BBKCIQms"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+              "client_id": "563538421107-drtu0dm00dieq6e1e38p5iafrh2p36k8.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "905575481964-jo1jca2rmm64vmtsrld1v43b4mp5ipc2.apps.googleusercontent.com",
+              "client_id": "563538421107-84j0ifgibfk087tm1s98ee5c0lsu7c3b.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "wumeng.SDKDemo"
+                "bundle_id": "Xiaoerge.BetaTest01"
               }
             }
           ]
@@ -52,70 +44,42 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:905575481964:android:a6d15fee0c5968fa",
-        "android_client_info": {
-          "package_name": "com.testwumeng.wwww"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCVDfLByThuzfxjL7nO87yYBGszI1pEJy4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "905575481964-jo1jca2rmm64vmtsrld1v43b4mp5ipc2.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "wumeng.SDKDemo"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:905575481964:android:b53b796df53fb47c",
+        "mobilesdk_app_id": "1:563538421107:android:de766f4a15c2e4bfd89106",
         "android_client_info": {
           "package_name": "com.xkc.androidgoogleplay"
         }
       },
       "oauth_client": [
         {
-          "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+          "client_id": "563538421107-kpeebs71kv69rc0ft4togk1vl1q92f45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xkc.androidgoogleplay",
+            "certificate_hash": "a6cbfc0850297b6268e5cac7b47996a1d569a2f1"
+          }
+        },
+        {
+          "client_id": "563538421107-drtu0dm00dieq6e1e38p5iafrh2p36k8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCVDfLByThuzfxjL7nO87yYBGszI1pEJy4"
+          "current_key": "AIzaSyCzbtneH_VCELSZa5frOu4Mre-BBKCIQms"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "905575481964-cfcd7kmhg0eguleqkeesukpjpjl9mkc8.apps.googleusercontent.com",
+              "client_id": "563538421107-drtu0dm00dieq6e1e38p5iafrh2p36k8.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "905575481964-jo1jca2rmm64vmtsrld1v43b4mp5ipc2.apps.googleusercontent.com",
+              "client_id": "563538421107-84j0ifgibfk087tm1s98ee5c0lsu7c3b.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "wumeng.SDKDemo"
+                "bundle_id": "Xiaoerge.BetaTest01"
               }
             }
           ]
